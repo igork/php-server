@@ -62,4 +62,8 @@ function report($num)
     }
 }
 
+//SELECT LAST_INSERT_ID();
+
+//SELECT created FROM log where id=LAST_INSERT_ID()
+
 ?>
